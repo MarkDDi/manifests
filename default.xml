@@ -8,5 +8,6 @@
 
   <project path="mtc1/test1" name="test1" />
   <project path="mtc2/test2" name="test2" />
+  <project path="testabcd" name="testing" />
 
 </manifest>
