@@ -3,8 +3,11 @@
   <remote  name="github"
            fetch="https://github.com/MarkDDi/"
            autodotgit="true" />
+  <remote  name="origin"
+           fetch="https://github.com/MarkDDi/"
+           autodotgit="true" />         
   <default revision="master"
-           remote="github" />
+           remote="origin" />
 
   <project path="mtc1/test1" name="test1" />
   <project path="mtc2/test2" name="test2" />
