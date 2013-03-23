@@ -3,9 +3,12 @@
   <remote  name="github"
            fetch="https://github.com/MarkDDi/"
            autodotgit="true" />
-  <remote  name="origin"
+  <remote  name="origin1"
            fetch="https://github.com/MarkDDi/"
-           autodotgit="true" />         
+           autodotgit="true" />   
+  <remote  name="origin"
+           fetch="git@github.com:MarkDDi/"
+           autodotgit="true" />             
   <default revision="master"
            remote="origin" />
 
